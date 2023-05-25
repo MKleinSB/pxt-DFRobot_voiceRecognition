@@ -1,0 +1,29 @@
+{
+    "name": "voiceRecognition",
+    "description": "This module uses a new offline speech recognition chip.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "_locales/zh-cn/voiceRecognition-strings.json",
+        "_locales/zh-cn/voiceRecognition-jsdoc-strings.json",
+        "README.md",
+        "voiceRecognition.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "5.0.12",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
