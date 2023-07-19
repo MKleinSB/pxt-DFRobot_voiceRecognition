@@ -1,6 +1,6 @@
 {
     "name": "voiceRecognition",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "This module uses a new offline speech recognition chip.",
     "license": "MIT",
     "dependencies": {
