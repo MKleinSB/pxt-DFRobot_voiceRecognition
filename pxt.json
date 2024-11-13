@@ -5,8 +5,8 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "funk": "*"
     },
     "files": [
         "main.blocks",
@@ -22,10 +22,11 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "6.0.15",
-        "targetId": "microbit"
+        "target": "7.0.3",
+        "targetId": "calliopemini"
     },
     "supportedTargets": [
+        "calliopemini",
         "microbit"
     ],
     "preferredEditor": "tsprj"
