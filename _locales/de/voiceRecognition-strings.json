@@ -34,7 +34,7 @@
     "voiceRecognition.checkWord1|block": "Aufwachwörter %word ID",
     "voiceRecognition.checkWord2|block": "Befehle zum Erlernen der %word ID",
     "voiceRecognition.checkWord3|block": "feste Befehle %word ID",
-    "voiceRecognition.checkWord4|block": "lernbezogene Befehle %word ID",
+    "voiceRecognition.checkWord4|block": "benutzerdefinierte Befehle %word ID",
     "voiceRecognition|block": "Spracherkennung（SEN0539）"
 
 }
