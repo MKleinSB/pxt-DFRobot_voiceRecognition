@@ -4,7 +4,9 @@
     "description": "This module uses a new offline speech recognition chip.",
     "license": "MIT",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "microphone": "*",
+        "funk": "*"
     },
     "files": [
         "main.blocks",
@@ -19,10 +21,11 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "6.0.15",
-        "targetId": "microbit"
+        "target": "7.0.3",
+        "targetId": "calliopemini"
     },
     "supportedTargets": [
+        "calliopemini",
         "microbit"
     ],
     "preferredEditor": "tsprj"
